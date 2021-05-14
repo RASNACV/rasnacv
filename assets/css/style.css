@@ -418,7 +418,7 @@ section {
 
 .skills .progress .skill .val {
 float: right;
-margin-right: 15%;
+
   font-style: normal;
 }
 
@@ -426,14 +426,14 @@ margin-right: 15%;
   background: #dce8f8;
 
  
-  width: 85%;
+  width: 100%;
   
 }
 
 .skills .progress-bar {
 
   width: 85%;
-  height: 40px;
+  height: 20px;
  border-color: #122f57;
   background-color: #ca2626da;
 }
